@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.zip
+.vscode/
+bin/
+build/
+build-web/
+SDL3/
+include/SDL3
